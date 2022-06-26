@@ -29,4 +29,16 @@ class HomepageController extends Controller
         $data = array('title' => 'Tujuan Kompetensi Keahlian');
         return view('homepage.tujuan', $data);
     }
+
+    public function prestasi()
+    {
+        $data = array('title' => 'Prestasi');
+        return view('homepage.prestasi', $data);
+    }
+
+    public function ekskul()
+    {
+        $data = array('title' => 'Ekstrakurikuler');
+        return view('homepage.ekskul', $data);
+    }
 }
