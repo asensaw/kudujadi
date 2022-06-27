@@ -47,4 +47,10 @@ class HomepageController extends Controller
         $data = array('title' => 'Perpisahan');
         return view('homepage.perpisahan', $data);
     }
+
+    public function ekstrakurikuler()
+    {
+        $data = array('title' => 'Ekstrakurikuler');
+        return view('homepage.ekstrakurikuler', $data);
+    }
 }

@@ -25,6 +25,7 @@
                 <li class="dropdown"><a href="#"><span>Dokumentasi</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="{{ URL::to('perpisahan') }}">Perpisahan</a></li>
+                        <li><a href="{{ URL::to('ekstrakurikuler') }}">Ekstrakurikuler</a></li>
                         <li><a href="{{ URL::to('ekskul') }}">Lomba Kreatifitas Siswa</a></li>
                     </ul>
                 </li>
