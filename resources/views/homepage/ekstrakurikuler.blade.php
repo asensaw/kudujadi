@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row-md-4">
         <div class="col-md-10">
-            <h1>Dokumentasi Perpisahan</h1>
+            <h1>Dokumentasi Ekstrakurikuler</h1>
             <br><br>
             <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
             <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;" data-link="https://photos.app.goo.gl/9AcEXMxikXSh5Bmc8" data-title="Ekstrakulikuler" data-description="127 new items added to shared album">

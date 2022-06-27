@@ -6,7 +6,7 @@
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
         <h1>Waluya,<br>Rancage Gawe</h1>
         <h2>Siap untuk Bekerja, Melanjutkan (Kuliah) atau Wirausaha</h2>
-        <a href="courses.html" class="btn-get-started">Get Started</a>
+        <!-- <a href="courses.html" class="btn-get-started">Get Started</a> -->
     </div>
 </section><!-- End Hero -->
 

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -105,20 +104,20 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>Sambutan Kepala Sekolah</h3>
-            
+
             <p>
               Bismillahirohmannirrohim,
-              </p>
-<p>
-Alhamdulillahi robbil alamin kami panjatkan kehadlirat Allah SWT, bahwasannya dengan rahmat dan karunia-Nya lah akhirnya Website sekolah kami dapat kami perbaharui. Kami mengucapkan selamat datang di Website kami Sekolah Menengah Kejuruan (SMK) Bhakti Nusantara Sumedang yang saya tujukan agar dapat dimanfaatkan oleh seluruh unsur pimpinan, guru, karyawan dan siswa serta khalayak umum guna dapat mengakses seluruh informasi tentang segala profil, aktifitas/kegiatan serta fasilitas sekolah kami.</p>
-<p>
-Kami selaku pimpinan sekolah mengucapkan terima kasih kepada bapak/ibu guru yang membantu mengembangkan Website ini agar dapat menjadi sumber informasi tentang sekolah kita. Dan tentunya Website sekolah kami masih memiliki banyak kekurangan, oleh karena itu kepada seluruh civitas akademika dan masyarakat umum dapat memberikan saran dan kritik yang membangun demi kemajuan Website Sekolah kami lebih lanjut.
-</p>
-<p>
-Saya berharap Website ini dapat dijadikan wahana interaksi yang positif baik antar civitas akademika maupun masyarakat pada umumnya sehingga dapat menjalin silaturahmi yang erat disegala unsur. Mari kita bekerja dan berkarya dengan mengharap ridho yang maha Kuasa dan keikhlasan yang tulus dijiwa demi anak bangsa.
-</p>
-<p>
-Terima kasih semoga Allah Subhanahu Wataala mudah-mudahan selalu menyertai doa kita semua……amiin.
+            </p>
+            <p>
+              Alhamdulillahi robbil alamin kami panjatkan kehadlirat Allah SWT, bahwasannya dengan rahmat dan karunia-Nya lah akhirnya Website sekolah kami dapat kami perbaharui. Kami mengucapkan selamat datang di Website kami Sekolah Menengah Kejuruan (SMK) Bhakti Nusantara Sumedang yang saya tujukan agar dapat dimanfaatkan oleh seluruh unsur pimpinan, guru, karyawan dan siswa serta khalayak umum guna dapat mengakses seluruh informasi tentang segala profil, aktifitas/kegiatan serta fasilitas sekolah kami.</p>
+            <p>
+              Kami selaku pimpinan sekolah mengucapkan terima kasih kepada bapak/ibu guru yang membantu mengembangkan Website ini agar dapat menjadi sumber informasi tentang sekolah kita. Dan tentunya Website sekolah kami masih memiliki banyak kekurangan, oleh karena itu kepada seluruh civitas akademika dan masyarakat umum dapat memberikan saran dan kritik yang membangun demi kemajuan Website Sekolah kami lebih lanjut.
+            </p>
+            <p>
+              Saya berharap Website ini dapat dijadikan wahana interaksi yang positif baik antar civitas akademika maupun masyarakat pada umumnya sehingga dapat menjalin silaturahmi yang erat disegala unsur. Mari kita bekerja dan berkarya dengan mengharap ridho yang maha Kuasa dan keikhlasan yang tulus dijiwa demi anak bangsa.
+            </p>
+            <p>
+              Terima kasih semoga Allah Subhanahu Wataala mudah-mudahan selalu menyertai doa kita semua……amiin.
             </p>
 
           </div>
@@ -165,9 +164,9 @@ Terima kasih semoga Allah Subhanahu Wataala mudah-mudahan selalu menyertai doa k
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-                
+
               <h3>ADA JURUSAN APA SAJA?</h3>
-             
+
             </div>
           </div>
           <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
@@ -175,24 +174,24 @@ Terima kasih semoga Allah Subhanahu Wataala mudah-mudahan selalu menyertai doa k
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                      <img src="{{asset('assets/img/logo_jurusan_tbsm.png')}}" class="img-fluid" alt="">
-                   
+                    <img src="{{asset('assets/img/logo_jurusan_tbsm.png')}}" class="img-fluid" alt="">
+
                     <h4>TEKNIK BISNIS SEPEDA MOTOR</h4>
-                    
+
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                      <img src="{{asset('assets/img/logo_jurusan_tkro.png')}}" class="img-fluid" alt="">
-                   
+                    <img src="{{asset('assets/img/logo_jurusan_tkro.png')}}" class="img-fluid" alt="">
+
                     <h4>TEKNIK KENDARAAN RINGAN & OTOMOTIF</h4>
 
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                      <img src="{{asset('assets/img/logo_jurusan_rpl.png')}}" class="img-fluid" alt="">
-                    
+                    <img src="{{asset('assets/img/logo_jurusan_rpl.png')}}" class="img-fluid" alt="">
+
                     <h4>REKAYASA PERANGKAT LUNAK</h4>
 
                   </div>
