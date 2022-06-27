@@ -130,55 +130,55 @@
                 <div class="col-lg-3 col-md-4">
                     <div class="icon-box">
                         <i class="ri-store-line" style="color: #ffbb2c;"></i>
-                        <h3><a href="">Lorem Ipsum</a></h3>
+                        <h3><a href="">Fasilitas</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-                        <h3><a href="">Dolor Sitema</a></h3>
+                        <h3><a href="">Sarana</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                        <h3><a href="">Sed perspiciatis</a></h3>
+                        <h3><a href="">Beasiswa</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                     <div class="icon-box">
                         <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-                        <h3><a href="">Magni Dolores</a></h3>
+                        <h3><a href="">Club Siswa</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-database-2-line" style="color: #47aeff;"></i>
-                        <h3><a href="">Nemo Enim</a></h3>
+                        <h3><a href="">Industri Pasangan</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-                        <h3><a href="">Eiusmod Tempor</a></h3>
+                        <h3><a href="">Balai Kerja</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-                        <h3><a href="">Midela Teren</a></h3>
+                        <h3><a href="">Peluang karir</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-                        <h3><a href="">Pira Neve</a></h3>
+                        <h3><a href="">Lokasi</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                        <h3><a href="">Dirada Pack</a></h3>
+                        <h3><a href="">Lingkungan Sekolah</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
@@ -190,13 +190,13 @@
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-base-station-line" style="color: #ff5828;"></i>
-                        <h3><a href="">Verdo Park</a></h3>
+                        <h3><a href="">Ajang Lomba</a></h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4">
                     <div class="icon-box">
                         <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-                        <h3><a href="">Flavor Nivelanda</a></h3>
+                        <h3><a href="">Kreatifitas</a></h3>
                     </div>
                 </div>
             </div>
@@ -228,7 +228,7 @@
                             <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
-                                    <img src="../assets/img/trainers/trainer-1.jpg')}}" class="img-fluid" alt="">
+                                    <img src="../assets/img/trainers/henhen.png')}}" class="img-fluid" alt="">
                                     <span>Antonio</span>
                                 </div>
                                 <div class="trainer-rank d-flex align-items-center">
@@ -254,7 +254,7 @@
                             <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
-                                    <img src="{{asset('assets/img/trainers/trainer-2.jpg')}}" class="img-fluid" alt="">
+                                    <img src="{{asset('assets/img/trainers/siti.jpeg')}}" class="img-fluid" alt="">
                                     <span>Lana</span>
                                 </div>
                                 <div class="trainer-rank d-flex align-items-center">
@@ -280,7 +280,7 @@
                             <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                             <div class="trainer d-flex justify-content-between align-items-center">
                                 <div class="trainer-profile d-flex align-items-center">
-                                    <img src="{{asset('assets/img/trainers/trainer-3.jpg')}}" class="img-fluid" alt="">
+                                    <img src="{{asset('assets/img/trainers/ahmad.jpg')}}" class="img-fluid" alt="">
                                     <span>Brandon</span>
                                 </div>
                                 <div class="trainer-rank d-flex align-items-center">
@@ -305,12 +305,12 @@
             <div class="row" data-aos="zoom-in" data-aos-delay="100">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
-                        <img src="{{asset('assets/img/trainers/trainer-1.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('assets/img/trainers/henhen.jpg')}}" class="img-fluid" alt="">
                         <div class="member-content">
-                            <h4>Walter White</h4>
-                            <span>Web Development</span>
+                            <h4>Henhen Rusnandi, S.Pd</h4>
+                            <span>Guru Olahraga</span>
                             <p>
-                                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                                "Didalam badan yang sehat terdapat jiwa yang kuat"
                             </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -324,12 +324,12 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
-                        <img src="{{asset('assets/img/trainers/trainer-2.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('assets/img/trainers/siti.jpg')}}" class="img-fluid" alt="">
                         <div class="member-content">
-                            <h4>Sarah Jhinson</h4>
-                            <span>Marketing</span>
+                            <h4>Siti Warliah, SE</h4>
+                            <span>Guru Kewirausahaan</span>
                             <p>
-                                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                                "Belajar kewirausahaan jalan menuju kemandirian"
                             </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -343,12 +343,12 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
-                        <img src="{{asset('assets/img/trainers/trainer-3.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('assets/img/trainers/ali.jpg')}}" class="img-fluid" alt="">
                         <div class="member-content">
-                            <h4>William Anderson</h4>
-                            <span>Content</span>
+                            <h4>Munawar Ali, S.Pd</h4>
+                            <span>Guru Agama</span>
                             <p>
-                                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                                "Apa guna seluruh ilmu bila tidak di landasi dengan pendidikan agama yang baik"
                             </p>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
