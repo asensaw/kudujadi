@@ -22,6 +22,12 @@
                         <li><a href="{{ URL::to('ekskul') }}">Ekstrakurikuler</a></li>
                     </ul>
                 </li>
+                <li class="dropdown"><a href="#"><span>Dokumentasi</span> <i class="bi bi-chevron-down"></i></a>
+                    <ul>
+                        <li><a href="{{ URL::to('perpisahan') }}">Perpisahan</a></li>
+                        <li><a href="{{ URL::to('ekskul') }}">Lomba Kreatifitas Siswa</a></li>
+                    </ul>
+                </li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>

@@ -23,3 +23,4 @@ Route::get('/visimisi', 'HomepageController@visimisi');
 Route::get('/tujuan', 'HomepageController@tujuan');
 Route::get('/prestasi', 'HomepageController@prestasi');
 Route::get('/ekskul', 'HomepageController@ekskul');
+Route::get('/perpisahan', 'HomepageController@perpisahan');
